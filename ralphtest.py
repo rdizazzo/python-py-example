@@ -4,5 +4,5 @@ def main(msg):
     print(msg)
 
 
-# This is a commentaire de ralph folder
-main("I am WR ")
+# This is a commentaire from ralph folder. Jai change les doubles de py2
+main("I am WR")
