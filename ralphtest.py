@@ -4,4 +4,4 @@ def main(msg):
     print(msg)
 
 
-main("I am WR ")
+main("This is Py2")
