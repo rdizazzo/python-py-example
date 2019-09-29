@@ -1,3 +1,7 @@
 #!/usr/bin/python3
 
-print("Hello World, how are you Wazo Rare?")
+def main(msg):
+    print(msg)
+
+
+main("I am WR ")
