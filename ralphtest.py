@@ -4,5 +4,11 @@ def main(msg):
     print(msg)
 
 
+def sec():
+    print("Wing")
+
+
+
+# New Branch created
 # This is a commentaire from ralph folder. Jai change les doubles de py2
 main("I am WR")
